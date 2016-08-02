@@ -1,1 +1,1 @@
-this is a sample repository
+on process of learning github and configurationss
